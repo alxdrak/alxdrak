@@ -19,10 +19,6 @@ I'm a Computer Science student at the National and Kapodistrian University of At
  
  
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Codemancer07&theme=cobalt2&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Codemancer07&theme=cobalt2&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Codemancer07&theme=cobalt2&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## Get in Touch 📬
 - **[Email]**(alx.drakopoulos@gmail.com)
